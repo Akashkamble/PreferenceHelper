@@ -18,7 +18,7 @@ allprojects {
 ```gradle
 compile 'com.github.Akashkamble:PreferenceHelper:1.0.1'
 ```
-
+## How to use
 First initialize PreferenceHelper then you are ready to go.
 
 ```Java
